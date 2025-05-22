@@ -1,0 +1,20 @@
+# Folder sistem
+.DS_Store
+Thumbs.db
+
+# Folder/node modules kalau pakai npm
+node_modules/
+
+# Folder build/output
+dist/
+build/
+
+# File backup sementara
+*.log
+*.tmp
+*.bak
+*.swp
+
+# File pribadi atau config lokal
+.env
+.vscode
